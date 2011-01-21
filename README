@@ -1,0 +1,2 @@
+Quick PHP function that uses Google's API to pull websites Favicons.
+The API dynamically converts the image into a PNG format.
